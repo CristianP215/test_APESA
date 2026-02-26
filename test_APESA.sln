@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_APESA.WebService", "test_APESA\test_APESA.WebService.csproj", "{EEA13249-C4E2-4A76-8ED0-36B5C441A796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_APESA.UTest", "test_APESA.UTest\test_APESA.UTest.csproj", "{19B8B7FA-0BBA-437F-899D-8394A9354C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA13249-C4E2-4A76-8ED0-36B5C441A796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA13249-C4E2-4A76-8ED0-36B5C441A796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA13249-C4E2-4A76-8ED0-36B5C441A796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA13249-C4E2-4A76-8ED0-36B5C441A796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B8B7FA-0BBA-437F-899D-8394A9354C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B8B7FA-0BBA-437F-899D-8394A9354C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B8B7FA-0BBA-437F-899D-8394A9354C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B8B7FA-0BBA-437F-899D-8394A9354C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A30C1E8F-4C70-447C-8070-98D656CBF40C}
+	EndGlobalSection
+EndGlobal
