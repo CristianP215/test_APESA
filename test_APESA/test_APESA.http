@@ -1,0 +1,6 @@
+@test_APESA_HostAddress = http://localhost:5279
+
+GET {{test_APESA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
