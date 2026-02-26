@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/test_APESA/bin/Debug/net8.0
+/test_APESA/obj
+/test_APESA/Properties
+/test_APESA.UTest/bin/Debug/net8.0
+/test_APESA.UTest/obj
